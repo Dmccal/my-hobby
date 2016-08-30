@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+  text-decoration:bold;
+  text-decoration: underline;
+}
+body{
+  background-color: #A9A9A9;
+  margin-left: auto;
+  margin-right: auto;
+}
+p{
+  font-size: 25px;
+}
+p{
+  width: 300px
+  padding: auto;
+  margin: 25px;
+}
